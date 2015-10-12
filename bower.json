@@ -1,6 +1,6 @@
 {
   "name": "angular-jsonrpc",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "jsonrpc.min.js",
   "dependencies": {
     "angular": "~1.0.7",
